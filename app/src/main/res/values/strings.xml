@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">My 1st Project</string>
+    <string name="title">My Bus Stops</string>
+    <string name="find_stop">Look Up Bus Stop</string>
+    <string name="stops">Waiting for Input</string>
+
+    <string-array name="bus_number">
+        <item>160</item>
+        <item>161</item>
+        <item>162</item>
+        <item>163</item>
+        <item>164</item>
+    </string-array>
+    <string name="direction">No Direction Selected</string>
+    <string-array name="bus_direction">
+        <item>To New York</item>
+        <item>From New York</item>
+    </string-array>
+</resources>
